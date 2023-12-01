@@ -8,5 +8,7 @@ SObright is an application designed to enhance the utilization of solar energy f
 
 ## Application Flowchart
 Below is the flowchart illustrating the workflow and interactions between the main components of the application.
+
+
 ![image](https://github.com/adeepe/capstone/assets/97653692/1e49096a-fe20-4062-90c0-cfbbbe77d8aa)
 
